@@ -8,6 +8,6 @@ Detailed description.
 
 ![RunningCalculator]()
 
-*[Windows]()
-*[MacOs]()
-*[Source code]()
+* [Windows]()
+* [MacOs]()
+* [Source code]()
