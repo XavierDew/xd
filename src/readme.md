@@ -8,6 +8,6 @@ Detailed description.
 
 ![RunningCalculator](https://github.com/XavierDew/xd/blob/main/Images/%20Calc.png?raw=true)
 
-* [Windows]()
+* [Windows](https://github.com/XavierDew/xd/blob/main/src/Calc/windows-amd64.zip)
 * [MacOs]()
 * [Source code]()
