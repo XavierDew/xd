@@ -9,5 +9,5 @@ Detailed description.
 ![RunningCalculator](https://github.com/XavierDew/xd/blob/main/Images/%20Calc.png?raw=true)
 
 * [Windows](https://github.com/XavierDew/xd/blob/main/src/Calc/windows-amd64.zip)
-* [MacOs]()
+* [MacOs](https://github.com/XavierDew/xd/blob/main/src/Calc/macos-aarch64.zip)
 * [Source code]()
