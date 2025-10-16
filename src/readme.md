@@ -4,8 +4,7 @@
 
 ### Calculator (2025)
 
-Detailed description.
-####Performs calculations and such
+Performs calculations and such
 
 ![RunningCalculator](https://github.com/XavierDew/xd/blob/main/Images/%20Calc.png?raw=true)
 
