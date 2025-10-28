@@ -10,6 +10,9 @@ Behind the scenes, the program uses variables to track the left operand, right o
 
 ![RunningCalculator](https://github.com/XavierDew/xd/blob/main/Images/%20Calc.png?raw=true)
 
+![UML](<img width="850" height="283" alt="image" src="https://github.com/user-attachments/assets/b9ec65a7-b2b7-48ab-bed2-e2d83ee19a4e" />)
+
+
 * [Windows](https://github.com/XavierDew/xd/blob/main/src/Calc/windows-amd64.zip)
 * [MacOs](https://github.com/XavierDew/xd/blob/main/src/Calc/macos-aarch64.zip)
 * [Source code](https://github.com/XavierDew/xd/tree/main/src)
