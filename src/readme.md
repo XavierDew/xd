@@ -9,8 +9,8 @@ The calculator supports standard operations such as addition, subtraction, multi
 Behind the scenes, the program uses variables to track the left operand, right operand, selected operator, and resulting value. Mouse events determine when a button is pressed, updating the display and performing calculations as needed. The code also includes a modular structure with functions like updateDisplay() and performCalculation() to keep logic and rendering separate. Overall, this project demonstrates effective use of Processing’s graphics and event-handling features to create an engaging and interactive calculator application.
 
 ![RunningCalculator](https://github.com/XavierDew/xd/blob/main/Images/%20Calc.png?raw=true)
+![Untitled Diagram.drawio.pdf](https://github.com/user-attachments/files/23191748/Untitled.Diagram.drawio.pdf)
 
-![UML]( <img width="850" height="283" alt="image" src="https://github.com/user-attachments/assets/85a0491c-826e-42f0-8624-79e0a960499f" />)
 
 
 * [Windows](https://github.com/XavierDew/xd/blob/main/src/Calc/windows-amd64.zip)
